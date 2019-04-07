@@ -88,6 +88,9 @@
                                     <segment title="20%"/>
                                     <segment title="25%"/>
                                 </segments>
+                                <connections>
+                                    <action selector="calculateTip:" destination="BYZ-38-t0r" eventType="valueChanged" id="RHv-BP-a15"/>
+                                </connections>
                             </segmentedControl>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Preferred Tip Percentage:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rwD-PE-7Pa">
                                 <rect key="frame" x="20" y="191" width="197" height="21"/>
