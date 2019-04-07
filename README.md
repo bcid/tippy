@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Gives users the option to split the bill
+- [X] Users have the option to split the bill however they like
 
 ## Video Walkthrough 
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I encountered while making this app was getting familiar with Xcode in general, and the syntax of swift.
 
 ## License
 
